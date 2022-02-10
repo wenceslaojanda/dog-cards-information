@@ -92,7 +92,7 @@ body{
 .description-div{
     font-size: 13px;
     line-height: 20px;
-    height: 150px;
+    height: auto;
 }
 
 .prev-btn,
