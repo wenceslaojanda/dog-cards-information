@@ -93,6 +93,8 @@ body{
     font-size: 13px;
     line-height: 20px;
     height: auto;
+    text-align: justify;
+    width: 70%;
 }
 
 .prev-btn,
